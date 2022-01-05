@@ -1,0 +1,14 @@
+{
+  "email_api": "",
+  "email_domain": "mail.com,email.com,OUTLOOK",
+  "phone_api": "api key for sms site",
+  "phone_site": "http://api1.5sim.net // site url including http(s)://",
+  "phone_country": "phone country (some services require a number e.g. 22 or india)",
+  "phone_operator": "any or a specific operator",
+  "phone_service": "sometimes ds, sometimes discord",
+  "max": 1000000,
+  "threads": 100,
+  "email_verify": true,
+  "phone_verify": false,
+  "invite": ""
+}
